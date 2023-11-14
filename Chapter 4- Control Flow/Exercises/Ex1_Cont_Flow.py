@@ -1,11 +1,17 @@
-# input statement
-alien_color = input("What is the alien color? ")
-
 #color variable
-alien_color_1 = "green"
-alien_color_2 = "yellow"
-alien_color_3 = "red"
+alien_color = "green"
 
 #if and else statement with output
-if alien_color == alien_color_1:
+if alien_color == "green":
     print("You just scored 5 points!")
+
+
+#failed version
+
+#color variable
+alien_color= "green"
+
+#if and else statement with output
+if alien_color == "blue":
+    print("You just scored 5 points!")
+
