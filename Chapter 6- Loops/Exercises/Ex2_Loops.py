@@ -12,7 +12,7 @@ while True:
     ticket_age = input("How old are you?: ")
 
 #if statement that intructs the code to end task
-    if ticket_age.lower() == 'quit':
+    if ticket_age == 'quit':
         break
 # try variable to instruct the line of code to excecute
     try:

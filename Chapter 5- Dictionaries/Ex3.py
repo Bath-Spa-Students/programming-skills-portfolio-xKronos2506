@@ -12,5 +12,5 @@ glossary ['flowchart'] = 'is a graphic presentation which highlights each procce
 glossary ['boolean'] = 'a data type that represents "True" and "False", known as truth values. '
 glossary ['integer'] = 'a data type that represents whole numbers, either positive, negative or zero'
 #printing both key and value in the glossary
-for term, meaning in glossary.items():
+for term, meaning in glossary.items():  
     print(f"{term}: {meaning}\n")

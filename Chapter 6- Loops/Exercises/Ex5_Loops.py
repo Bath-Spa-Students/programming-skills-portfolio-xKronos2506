@@ -1,4 +1,5 @@
-sandwich_orders = ['Chicken', 'Tuna', 'Egg', 'Grilled Cheese', 'Pastrami', 'Pastrami', 'Pastrami']
+sandwich_orders = ['Chicken', 'Tuna', 'Egg', 'Grilled Cheese',
+                    'Pastrami', 'Pastrami', 'Pastrami']
 
 finished_sandwiches = []
 

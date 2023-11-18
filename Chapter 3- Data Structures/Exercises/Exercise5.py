@@ -1,7 +1,8 @@
 # CHANGE NAME OF ONE GUEST AND REPLACE WITH ANOTHER
 
 # guest list
-guest_name = ['Tupac Shakur',  'Duterte', 'Eminem', 'Eriel', 'Biggie Smalls']
+guest_name = ['Tupac Shakur',  'Duterte', 'Eminem'
+              , 'Eriel', 'Biggie Smalls']
 
 #for loop in guest list
 for guest_name in guest_name:
